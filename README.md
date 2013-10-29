@@ -33,6 +33,10 @@ Python Development
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
     + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
     + [lxml](http://lxml.de/) - XML and HTML with Python
+    + Database
+        + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
+        + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
+        + [PyMongo](https://github.com/mongodb/mongo-python-driver) the Python driver for MongoDB
     + Hadoop
         + [mrjob](http://pythonhosted.org/mrjob/) lets you write MapReduce jobs in Python 2.5+ 
         + [Dumbo](http://klbostee.github.io/dumbo/) convenient Python API for writing MapReduce programs.
