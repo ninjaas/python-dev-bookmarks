@@ -32,10 +32,13 @@ Python Development
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
 + Libraries
+    + [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
+    + [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
     + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
     + [lxml](http://lxml.de/) - XML and HTML with Python
     + [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
+    + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
