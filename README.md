@@ -16,7 +16,8 @@ Python Development
         + Libraries
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
             + [Django Compressor](http://django-compressor.readthedocs.org/) - Compresses linked and inline JavaScript or CSS into a single cached file.
-            + [Django Require(django-require)](https://github.com/etianen/django-require)A Django staticfiles post-processor for optimizing with RequireJS.
+            + [Django Require(django-require)](https://github.com/etianen/django-require) A Django staticfiles post-processor for optimizing with RequireJS.
+            + [Django Storages(django-storages)](http://django-storages.readthedocs.org/) is a collection of custom storage backends for Django.
         + APIs
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
             + <del>django-piston</del>
