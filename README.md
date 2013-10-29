@@ -11,6 +11,7 @@ Python Development
         + Books and Tutorials 
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
+            + [est-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Successor to [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
             + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
@@ -23,8 +24,8 @@ Python Development
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
+            + [Django Tastypie](http://django-tastypie.readthedocs.org/en/latest/)
             + <del>django-piston</del>
-            + <del>django-tastypie</del>
     + [Tornado](http://www.tornadoweb.org/)
     + [Pylons (now Pyramid)](http://www.pylonsproject.org/)
     + [CherryPy](http://cherrypy.org/)
