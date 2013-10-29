@@ -18,6 +18,7 @@ Python Development
             + [Django Compressor](http://django-compressor.readthedocs.org/) - Compresses linked and inline JavaScript or CSS into a single cached file.
             + [Django Require(django-require)](https://github.com/etianen/django-require) A Django staticfiles post-processor for optimizing with RequireJS.
             + [Django Storages(django-storages)](http://django-storages.readthedocs.org/) is a collection of custom storage backends for Django.
+            + [Django Cumulus(django-cumulus)](http://django-cumulus.readthedocs.org/) is to provide a set of tools to utilize the swiftclient api through Django.
         + APIs
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
             + <del>django-piston</del>
