@@ -20,3 +20,17 @@ A list of python development resources We collected over time.
     + [Flask](http://flask.pocoo.org/)
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
++ Conference
+    + [PyCon](http://pycon.org/)
+    + [djangocon](http://www.djangocon.us/)
+    + [GotoConferences](http://gotocon.com/)
+    + Videos
+        + [PyCon US Videos - 2009, 2010, 2011](http://blip.tv/pycon-us-videos-2009-2010-2011)
+        + [DjangoCon](http://blip.tv/djangocon)
+        + [PyVideo](http://pyvideo.org/)
+        + [Lanyrd #Python](http://lanyrd.com/topics/python/)
+        + [Lanyrd #Django](http://lanyrd.com/topics/django/)
+        + [pydanny](http://lanyrd.com/profile/pydanny/)@lanyrd
+        + [jacobian](http://lanyrd.com/profile/jacobian/)@lanyrd
+        + [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
+        + [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
