@@ -33,6 +33,11 @@ Python Development
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
     + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
     + [lxml](http://lxml.de/) - XML and HTML with Python
+    + Hadoop
+        + [mrjob](http://pythonhosted.org/mrjob/) lets you write MapReduce jobs in Python 2.5+ 
+        + [Dumbo](http://klbostee.github.io/dumbo/) convenient Python API for writing MapReduce programs.
+        + [Hadoopy](http://www.hadoopy.com/en/latest/)
+        + [Pydoop](http://pydoop.sourceforge.net/docs/)
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)
