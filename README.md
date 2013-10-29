@@ -31,6 +31,7 @@ Python Development
     + [Web.py](http://webpy.org/)
 + Libraries
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
+    + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)
