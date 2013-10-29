@@ -19,6 +19,8 @@ Python Development
     + [Flask](http://flask.pocoo.org/)
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
++ Libraries
+    + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
 + Conference
     + [PyCon](http://pycon.org/)
     + [djangocon](http://www.djangocon.us/)
