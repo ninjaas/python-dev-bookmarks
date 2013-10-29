@@ -12,6 +12,7 @@ A list of python development resources We collected over time.
         + Books and Tutorials 
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
+            + [Django by Example](http://lightbird.net/dbe/)
             + [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - **Old Video** useful for fast learners 1.3 
     + [Tornado](http://www.tornadoweb.org/)
     + [Pylons (now Pyramid)](http://www.pylonsproject.org/)
