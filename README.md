@@ -13,6 +13,14 @@ Python Development
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
             + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
+        + Libraries
+            + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
+            + [Django Compressor](http://django-compressor.readthedocs.org/) - Compresses linked and inline JavaScript or CSS into a single cached file.
+            + [Django Require(django-require)](https://github.com/etianen/django-require)A Django staticfiles post-processor for optimizing with RequireJS.
+        + APIs
+            + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
+            + <del>django-piston</del>
+            + <del>django-tastypie</del>
     + [Tornado](http://www.tornadoweb.org/)
     + [Pylons (now Pyramid)](http://www.pylonsproject.org/)
     + [CherryPy](http://cherrypy.org/)
