@@ -7,7 +7,7 @@ A list of python development resources We collected over time.
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
-+ Web Frameworks
++ [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
     + [Django](https://www.djangoproject.com/)
         + Books and Tutorials 
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
