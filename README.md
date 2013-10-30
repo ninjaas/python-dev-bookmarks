@@ -23,6 +23,9 @@ Python Development
             + [Django Storages(django-storages)](http://django-storages.readthedocs.org/) is a collection of custom storage backends for Django.
             + [Django Cumulus(django-cumulus)](http://django-cumulus.readthedocs.org/) is to provide a set of tools to utilize the swiftclient api through Django.
             + [Django Simple Captcha](https://github.com/mbi/django-simple-captcha) is simple and highly customizable application to add captcha images to any form.
+            + [Haystack](http://haystacksearch.org/) - Search for Django 
+              **[[DOC]](http://django-haystack.readthedocs.org/)**
+              **[[IRC]](irc://irc.freenode.net/haystack)**
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
