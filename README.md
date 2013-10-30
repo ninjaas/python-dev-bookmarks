@@ -12,6 +12,8 @@ Python Development
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
             + [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Successor to [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
+            + [Tango with Django](http://www.tangowithdjango.com) - A
+              beginner's guide to web development with Django 1.5.4
             + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
