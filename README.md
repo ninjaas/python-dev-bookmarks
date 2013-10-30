@@ -26,6 +26,8 @@ Python Development
             + [Haystack](http://haystacksearch.org/) - Search for Django 
               **[[DOC]](http://django-haystack.readthedocs.org/)**
               **[[IRC]](irc://irc.freenode.net/haystack)**
+            + [Mezzanine](http://mezzanine.jupo.org/) - A content management platform
+            + [Cartridge](http://cartridge.jupo.org/) - Shopping cart application
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
