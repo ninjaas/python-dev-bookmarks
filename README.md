@@ -40,14 +40,12 @@ Python Development
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>+ [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
     + Parser and Emitter
-        + [PyYAML](http://pyyaml.org/wiki/PyYAML)
-          is a YAML parser and emitter for Python.
-        + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) -
-          a library designed for screen-scraping HTML and XML.
-        + [lxml](http://lxml.de/) - XML and HTML with Python
+        + [PyYAML](http://pyyaml.org/wiki/PyYAML) - YAML
+        + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML and XML.
+        + [lxml](http://lxml.de/) - XML and HTML
         + <del>ElementTree - XML</del>
-        + [simplejson](http://simplejson.readthedocs.org/) - JSON encoder and decoder
-        + [feedparser](http://pythonhosted.org/feedparser/) - Parse Atom and RSS feeds in Python
+        + [simplejson](http://simplejson.readthedocs.org/) - JSON
+        + [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
         + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
