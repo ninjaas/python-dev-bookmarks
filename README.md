@@ -37,11 +37,17 @@ Python Development
 + Libraries
     + [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
     + [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
-    + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
-    + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - a library designed for screen-scraping HTML and XML.
-    + [lxml](http://lxml.de/) - XML and HTML with Python
-    + [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
+    + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>+ [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
+    + Parser and Emitter
+        + [PyYAML](http://pyyaml.org/wiki/PyYAML)
+          is a YAML parser and emitter for Python.
+        + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) -
+          a library designed for screen-scraping HTML and XML.
+        + [lxml](http://lxml.de/) - XML and HTML with Python
+        + <del>ElementTree - XML</del>
+        + [simplejson](http://simplejson.readthedocs.org/) - JSON encoder and decoder
+        + [feedparser](http://pythonhosted.org/feedparser/) - Parse Atom and RSS feeds in Python
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
