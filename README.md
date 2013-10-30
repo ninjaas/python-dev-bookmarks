@@ -37,6 +37,10 @@ Python Development
     + [Flask](http://flask.pocoo.org/)
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
+    + [Web2py](http://web2py.com/)
+        + [Book](http://web2py.com/book)
+        + [Tutorial](http://killer-web-development.com/)
+        + [Hosting with we2py support](https://www.pythonanywhere.com/)
 + Libraries
     + [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
     + [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
