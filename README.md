@@ -48,6 +48,7 @@ Python Development
         + <del>ElementTree - XML</del>
         + [simplejson](http://simplejson.readthedocs.org/) - JSON encoder and decoder
         + [feedparser](http://pythonhosted.org/feedparser/) - Parse Atom and RSS feeds in Python
+        + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
