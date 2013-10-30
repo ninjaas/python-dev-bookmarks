@@ -65,6 +65,7 @@ Python Development
     + [GotoConferences](http://gotocon.com/)
     + Videos
         + [PyCon US Videos - 2009, 2010, 2011](http://blip.tv/pycon-us-videos-2009-2010-2011)
+        + [EuroPython Conference - 2013](https://www.youtube.com/user/PythonItalia)
         + [DjangoCon](http://blip.tv/djangocon)
         + [PyVideo](http://pyvideo.org/)
         + [Lanyrd #Python](http://lanyrd.com/topics/python/)
