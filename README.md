@@ -4,6 +4,7 @@ Python Development
 + Guides
     + [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
     + [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
+    + [Python By Example](http://www.lightbird.net/py-by-example/)
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
