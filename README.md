@@ -56,6 +56,7 @@ Python Development
         + [simplejson](http://simplejson.readthedocs.org/) - JSON
         + [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
         + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
+        + [CSV module](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
