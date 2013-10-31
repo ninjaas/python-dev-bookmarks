@@ -5,6 +5,7 @@ Python Development
     + [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
     + [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
     + [Python By Example](http://www.lightbird.net/py-by-example/)
+    + [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
@@ -64,6 +65,8 @@ Python Development
     + [lxml](http://lxml.de/) - XML and HTML with Python
     + [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
+    + [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
+    + [IPDB](https://pypi.python.org/pypi/ipdb) - IPython support for PDB
     + Parser and Emitter
         + [PyYAML](http://pyyaml.org/wiki/PyYAML) - YAML
         + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML and XML.
@@ -73,13 +76,13 @@ Python Development
         + [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
         + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
     + Database
-        + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
-        + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
-        + [PyMongo](https://github.com/mongodb/mongo-python-driver) the Python driver for MongoDB
+        + [psycopg](http://initd.org/psycopg/) - Psycopg is the most popular PostgreSQL adapter for the Python
+        + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) - MySQL database server that provides the Python database API.
+        + [PyMongo](https://github.com/mongodb/mongo-python-driver) - The Python driver for MongoDB
         + [Motor](https://github.com/mongodb/motor/) - Non blocking MongoDB driver for use with Tornado
     + Hadoop
-        + [mrjob](http://pythonhosted.org/mrjob/) lets you write MapReduce jobs in Python 2.5+ 
-        + [Dumbo](http://klbostee.github.io/dumbo/) convenient Python API for writing MapReduce programs.
+        + [mrjob](http://pythonhosted.org/mrjob/) - Lets you write MapReduce jobs in Python 2.5+
+        + [Dumbo](http://klbostee.github.io/dumbo/) - Convenient Python API for writing MapReduce programs.
         + [Hadoopy](http://www.hadoopy.com/en/latest/)
         + [Pydoop](http://pydoop.sourceforge.net/docs/)
 + Conference
@@ -103,3 +106,4 @@ Python Development
     + [Appfog](https://docs.appfog.com/languages/python)
     + [AWS Elasticbeanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html)
     + [Deis](http://deis.io/) - Private PaaS like Heroku
+    + [Webfaction](https://www.webfaction.com/) - Shared hosting
