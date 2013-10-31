@@ -28,6 +28,7 @@ Python Development
               **[[IRC]](irc://irc.freenode.net/haystack)**
             + [Mezzanine](http://mezzanine.jupo.org/) - A content management platform
             + [Cartridge](http://cartridge.jupo.org/) - Shopping cart application
+            + [Userena(django-userena)](http://django-userena.org) Accounts for Django made beautifully simple 
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
