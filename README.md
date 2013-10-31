@@ -3,11 +3,11 @@ Python Development
 
 + Guides
     + [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
+    + [Learning Python The Hard Way](http://learnpythonthehardway.org/)
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
     + [Planet Python](http://planet.python.org/)
-    + 
 + [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
     + [Django](https://www.djangoproject.com/)
         + Resources
@@ -15,16 +15,16 @@ Python Development
             + [Django Blog](https://www.djangoproject.com/weblog/)
             + [Django Snippets](https://djangosnippets.org/snippets/)
             + [Django Packages](https://www.djangopackages.com/)
-            + []()
-        + Books and Tutorials 
+        + Books and Tutorials
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
             + [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Successor to [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
-            + [Django by Example](http://lightbird.net/dbe2/) - Updated for Django 1.5.
+            + [Tango with Django](http://www.tangowithdjango.com) - A beginner's guide to web development with Django 1.5.4
             + [Hacker News Clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
             + [Getting Started With Django](http://gettingstartedwithdjango.com/)
             + [GoDjango](https://godjango.com/) - Video Screencasts
-            + 
+            + [Django by Example](http://lightbird.net/dbe2/) - Updated for Django 1.5.
+            + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
@@ -34,9 +34,13 @@ Python Development
             + [Django Storages(django-storages)](http://django-storages.readthedocs.org/) is a collection of custom storage backends for Django.
             + [Django Cumulus(django-cumulus)](http://django-cumulus.readthedocs.org/) is to provide a set of tools to utilize the swiftclient api through Django.
             + [Django Simple Captcha](https://github.com/mbi/django-simple-captcha) is simple and highly customizable application to add captcha images to any form.
-            + [Haystack - Search for Django](http://haystacksearch.org/)
+            + [Haystack](http://haystacksearch.org/) - Search for Django
+              **[[DOC]](http://django-haystack.readthedocs.org/)**
+              **[[IRC]](irc://irc.freenode.net/haystack)**
+            + [Mezzanine](http://mezzanine.jupo.org/) - A content management platform
+            + [Cartridge](http://cartridge.jupo.org/) - Shopping cart application
+            + [Userena(django-userena)](http://django-userena.org) Accounts for Django made beautifully simple
             + [South - Migrations](http://south.readthedocs.org/en/latest/) - To be [part of Django core in 1.7](https://docs.djangoproject.com/en/dev/releases/1.7/#schema-migrations)
-            + 
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
@@ -48,6 +52,9 @@ Python Development
     + [Flask](http://flask.pocoo.org/)
     + [Pyjamas(now pyjs)](http://pyjs.org/)
     + [Web.py](http://webpy.org/)
+    + [Web2py](http://web2py.com/)
+        + Books and Tutorials
+            + [Killer Web Development](http://killer-web-development.com/)
 + Libraries
     + [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
     + [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
@@ -56,10 +63,19 @@ Python Development
     + [lxml](http://lxml.de/) - XML and HTML with Python
     + [pycrypto](https://pypi.python.org/pypi/pycrypto) Python Cryptography Toolkit 
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
+    + Parser and Emitter
+        + [PyYAML](http://pyyaml.org/wiki/PyYAML) - YAML
+        + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML and XML.
+        + [lxml](http://lxml.de/) - XML and HTML
+        + <del>ElementTree - XML</del>
+        + [simplejson](http://simplejson.readthedocs.org/) - JSON
+        + [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
+        + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
     + Database
         + [psycopg](http://initd.org/psycopg/)- Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) MySQL database server that provides the Python database API.
         + [PyMongo](https://github.com/mongodb/mongo-python-driver) the Python driver for MongoDB
+        + [Motor](https://github.com/mongodb/motor/) - Non blocking MongoDB driver for use with Tornado
     + Hadoop
         + [mrjob](http://pythonhosted.org/mrjob/) lets you write MapReduce jobs in Python 2.5+ 
         + [Dumbo](http://klbostee.github.io/dumbo/) convenient Python API for writing MapReduce programs.
@@ -71,6 +87,7 @@ Python Development
     + [GotoConferences](http://gotocon.com/)
     + Videos
         + [PyCon US Videos - 2009, 2010, 2011](http://blip.tv/pycon-us-videos-2009-2010-2011)
+        + [EuroPython Conference - 2013](https://www.youtube.com/user/PythonItalia)
         + [DjangoCon](http://blip.tv/djangocon)
         + [PyVideo](http://pyvideo.org/)
         + [Lanyrd #Python](http://lanyrd.com/topics/python/)
