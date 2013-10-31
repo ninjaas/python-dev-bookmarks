@@ -26,7 +26,6 @@ Python Development
             + [Getting Started With Django](http://gettingstartedwithdjango.com/)
             + [GoDjango](https://godjango.com/) - Video Screencasts
             + [Django by Example](http://lightbird.net/dbe2/) - Updated for Django 1.5.
-            + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
