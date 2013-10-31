@@ -3,7 +3,7 @@ Python Development
 
 + Guides
     + [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
-    + [Learning Python The Hard Way](http://learnpythonthehardway.org/)
+    + [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
