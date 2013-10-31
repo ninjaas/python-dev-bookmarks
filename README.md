@@ -6,21 +6,37 @@ Python Development
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
+    + [Planet Python](http://planet.python.org/)
+    + 
 + [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
     + [Django](https://www.djangoproject.com/)
+        + Resources
+            + [Django Community Blogs](https://www.djangoproject.com/community/blogs/)
+            + [Django Blog](https://www.djangoproject.com/weblog/)
+            + [Django Snippets](https://djangosnippets.org/snippets/)
+            + [Django Packages](https://www.djangopackages.com/)
+            + []()
         + Books and Tutorials 
             + [The Django Book(Beginners and Intermediate)](http://www.djangobook.com/) -  1.4, 1.5, and beyond
             + [Two Scoops of django(Beginners and Intermediate)](http://django.2scoops.org/) - Best Practices For Django 1.5
-            + [est-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Successor to [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
-            + <del> [Django by Example](http://lightbird.net/dbe/) - Django 1.1 and 1.2. </del>
+            + [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Successor to [Test-Driven Django Tutorial](http://www.tdd-django-tutorial.com/)
+            + [Django by Example](http://lightbird.net/dbe2/) - Updated for Django 1.5.
+            + [Hacker News Clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
+            + [Getting Started With Django](http://gettingstartedwithdjango.com/)
+            + [GoDjango](https://godjango.com/) - Video Screencasts
+            + 
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
             + [Django Compressor](http://django-compressor.readthedocs.org/) - Compresses linked and inline JavaScript or CSS into a single cached file.
+            + [Django Assets](http://elsdoerfer.name/docs/django-assets/) - Part of [Webassets](http://elsdoerfer.name/docs/webassets/)
             + [Django Require(django-require)](https://github.com/etianen/django-require) A Django staticfiles post-processor for optimizing with RequireJS.
             + [Django Storages(django-storages)](http://django-storages.readthedocs.org/) is a collection of custom storage backends for Django.
             + [Django Cumulus(django-cumulus)](http://django-cumulus.readthedocs.org/) is to provide a set of tools to utilize the swiftclient api through Django.
             + [Django Simple Captcha](https://github.com/mbi/django-simple-captcha) is simple and highly customizable application to add captcha images to any form.
+            + [Haystack - Search for Django](http://haystacksearch.org/)
+            + [South - Migrations](http://south.readthedocs.org/en/latest/) - To be [part of Django core in 1.7](https://docs.djangoproject.com/en/dev/releases/1.7/#schema-migrations)
+            + 
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
@@ -63,3 +79,9 @@ Python Development
         + [jacobian](http://lanyrd.com/profile/jacobian/)@lanyrd
         + [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
         + [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
++ Hosting
+    + [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+    + [Dotcloud](http://docs.dotcloud.com/services/python/)
+    + [Appfog](https://docs.appfog.com/languages/python)
+    + [AWS Elasticbeanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python.html)
+    + [Deis](http://deis.io/) - Private PaaS like Heroku
