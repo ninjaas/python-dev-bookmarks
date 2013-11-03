@@ -100,6 +100,8 @@ Python Development
         + [jacobian](http://lanyrd.com/profile/jacobian/)@lanyrd
         + [jtauber](http://lanyrd.com/profile/jtauber/)@lanyrd
         + [NextDayVideo](http://www.youtube.com/user/NextDayVideo)
++ Miscellaneous
+    + [PyMite](https://wiki.python.org/moin/PyMite) Python on a microcontroller
 + Hosting
     + [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
     + [Dotcloud](http://docs.dotcloud.com/services/python/)
