@@ -66,6 +66,13 @@ Python Development
     + [Raven](http://raven.readthedocs.org/) is a Python client for Sentry
     + [IPython](http://ipython.org/ipython-doc/stable/interactive/tutorial.html) - Extended interactive shell
     + [IPDB](https://pypi.python.org/pypi/ipdb) - IPython support for PDB
+    + [Templating in Python](https://wiki.python.org/moin/Templating)
+        + [Jinja2](http://jinja.pocoo.org/docs/) is a full featured template engine for Python.
+        + [Wheezy template](https://bitbucket.org/akorn/wheezy.template) - Compact, Expressive, Clean, Blazingly Fast
+        + [Quik](https://github.com/avelino/quik) - A fast and lightweight Python template engine
+        + [Airspeed](https://github.com/purcell/airspeed) - A lightweight Python template engine compatible with Velocity
+        + [Chameleon](http://pagetemplates.org)
+        + <del>[Mako] Templates for Python</del>
     + Parser and Emitter
         + [PyYAML](http://pyyaml.org/wiki/PyYAML) - YAML
         + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML and XML.
