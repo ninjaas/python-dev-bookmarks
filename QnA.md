@@ -5,6 +5,7 @@
 + [How can I represent an 'enum' in Python?](http://stackoverflow.com/questions/36932/how-can-i-represent-an-enum-in-python)
 + [How do I check if a file exists using Python?](http://stackoverflow.com/questions/82831/how-do-i-check-if-a-file-exists-using-python)
 + [Ternary conditional operator in Python](http://stackoverflow.com/questions/394809/ternary-conditional-operator-in-python)
+
 #Versus Questions
 + [Django vs Flask for a long-term project](http://stackoverflow.com/questions/3005319/django-vs-flask-for-a-long-term-project)
 
