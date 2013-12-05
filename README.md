@@ -74,7 +74,7 @@ Python Development
         + [Airspeed](https://github.com/purcell/airspeed) - A lightweight Python template engine compatible with Velocity
         + [Chameleon](http://pagetemplates.org)
         + <del>[Mako] Templates for Python</del>
-    + Parser and Emitter
+    + Parser, Emitter and Convertors
         + [PyYAML](http://pyyaml.org/wiki/PyYAML) - YAML
         + [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML and XML.
         + [lxml](http://lxml.de/) - XML and HTML
@@ -83,6 +83,8 @@ Python Development
         + [feedparser](http://pythonhosted.org/feedparser/) - Atom and RSS feeds
         + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
         + [CSV module](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
+        + [isz-tool](https://github.com/oserres/isz-tool) - isz-tool is a command line utility 
+to manipulate ISZ files (.isz), including .isz to .iso conversion
     + Database
         + [psycopg](http://initd.org/psycopg/) - Psycopg is the most popular PostgreSQL adapter for the Python
         + [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html) - MySQL database server that provides the Python database API.
