@@ -6,6 +6,8 @@ Python Development
     + [Learning Python The Hard Way](http://learnpythonthehardway.org/book/)
     + [Python By Example](http://www.lightbird.net/py-by-example/)
     + [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
+    + [Porting to Python 3 Redux](http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/) - 
+      Write code that works on Python 2.6, 2.7 and 3.3
 + Weekly & Daily Resources
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
