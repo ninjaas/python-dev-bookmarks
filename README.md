@@ -26,6 +26,8 @@ Python Development
             + [Tango with Django](http://www.tangowithdjango.com) - A beginner's guide to web development with Django 1.5.4
             + [Hacker News Clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
             + [Getting Started With Django](http://gettingstartedwithdjango.com/)
+            + [Django Tutorials](http://www.youtube.com/playlist?list=PLQVvvaa0QuDcTDEowl-b5nQlaDaD82r_s)
+            Video Playlist on YoutTube
             + [GoDjango](https://godjango.com/) - Video Screencasts
             + [Django by Example](http://lightbird.net/dbe2/) - Updated for Django 1.5.
             + [A Docker primer – from zero to a running Django app](http://ochronus.com/docker-primer-django/)
