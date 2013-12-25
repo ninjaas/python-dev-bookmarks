@@ -33,6 +33,7 @@ Python Development
             + [A Docker primer – from zero to a running Django app](http://ochronus.com/docker-primer-django/)
             + <del> [Django Tutorial Playlist(Begineers) ](http://www.youtube.com/playlist?list=PL385A53B00B8B158E) - Django 1.3 </del>
         + Libraries
+            + [Django Jenkins](https://github.com/kmmbvnr/django-jenkins)-Plug and play continuous integration with django and jenkins
             + [Django Pipeline](http://django-pipeline.readthedocs.org/) is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
             + [Django Compressor](http://django-compressor.readthedocs.org/) - Compresses linked and inline JavaScript or CSS into a single cached file.
             + [Django Assets](http://elsdoerfer.name/docs/django-assets/) - Part of [Webassets](http://elsdoerfer.name/docs/webassets/)
@@ -62,6 +63,7 @@ Python Development
         + Books and Tutorials
             + [Killer Web Development](http://killer-web-development.com/)
 + Libraries
+    + [PEP8](https://pypi.python.org/pypi/pep8) - Python style guide checker
     + [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) virtualenvwrapper is a set of extensions to virtualenv tool. 
     + [python-ldap](http://www.python-ldap.org/) provides an object-oriented API to access LDAP directory servers from Python programs.
     + [Pillow(PIL fork)](http://python-imaging.github.io/) - Python Imaging. Don't use <del>PIL</del>
