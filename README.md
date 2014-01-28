@@ -48,6 +48,7 @@ Python Development
             + [Cartridge](http://cartridge.jupo.org/) - Shopping cart application
             + [Userena(django-userena)](http://django-userena.org) Accounts for Django made beautifully simple
             + [South - Migrations](http://south.readthedocs.org/en/latest/) - To be [part of Django core in 1.7](https://docs.djangoproject.com/en/dev/releases/1.7/#schema-migrations)
+            + [Django Taggit](http://django-taggit.readthedocs.org/) - Simple tagging for django 
         + APIs
             + [Django All Access(django-all-access)](https://django-all-access.readthedocs.org)  is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0
             + [Django REST framework(django-rest-framework)](http://django-rest-framework.org/) - Awesome web-browsable Web APIs.
