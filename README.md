@@ -12,6 +12,9 @@ Python Development
     + [Python weekly](http://www.pythonweekly.com/)
     + [pycoders weekly](http://www.pycoders.com/)
     + [Planet Python](http://planet.python.org/)
++ Patterns
+    + [Python Best Practice Patterns by Vladimir Keleshev]
+    (http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/)
 + [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
     + [Django](https://www.djangoproject.com/)
         + Resources
