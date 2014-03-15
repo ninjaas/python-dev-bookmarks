@@ -95,6 +95,7 @@ Python Development
         + [biplist](https://bitbucket.org/wooster/biplist) - binary plist
         + [CSV module](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
         + [isz-tool](https://github.com/oserres/isz-tool) - isz-tool is a command line utility 
+        + [xhtml2pdf](http://www.xhtml2pdf.com) HTML/CSS to PDF
 to manipulate ISZ files (.isz), including .isz to .iso conversion
     + Database
         + [psycopg](http://initd.org/psycopg/) - Psycopg is the most popular PostgreSQL adapter for the Python
