@@ -17,6 +17,8 @@ Python Development
     (http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/) :
      [[Video]] (http://www.youtube.com/watch?v=GZNUfkVIHAY)
 + [Web Frameworks](https://wiki.python.org/moin/WebFrameworks)
+    + [Wheezy.web](https://bitbucket.org/akorn/wheezy.web/) -  lightweight, high performance, high concurrency WSGI web framework
+        + [Documentation](http://wheezyweb.readthedocs.org/en/latest/)
     + [Django](https://www.djangoproject.com/)
         + Resources
             + [Django Community Blogs](https://www.djangoproject.com/community/blogs/)
